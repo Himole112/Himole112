@@ -26,14 +26,20 @@ Open to remote roles, freelance projects, and interesting data collaborations.
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
+- **Project A:** Power BI Dashboard: Analyzing U.S. Renewable Energy Consumption with interactive visuals, filters, and insights.
+- **Project B:** Analytics Projects: Beginner-friendly projects using Excel, SQL, and Power BI to solve real-world business questions.
+- **Content Creation:** Learning-by-Building: Uploading documented projects to GitHub with clear problem statements, analysis steps, and conclusions.
 
 ## 🌱 Currently Learning 
 
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- SQL for Data Analysis
+(SELECT queries, WHERE clauses, JOINs, GROUP BY, and basic optimization)
+
+- Power BI
+(Data modeling, DAX fundamentals, interactive dashboards)
+
+- AI-Assisted Analytics
+(Using AI to accelerate Excel analysis, SQL querying, and dashboard creation)
 
 ## 🛠️ Technical Skillset
 
