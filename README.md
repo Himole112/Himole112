@@ -1,4 +1,4 @@
-## Hi there, I'm Imoleayo 👋
+## Hi there, I'm Imoleayo 
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -13,7 +13,7 @@
   <a href="mailto: aderinboyeimoleayo@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+##  About Me 
 I'm a Data Analyst who helps businesses make sense of their data and use it to make better decisions. I'm comfortable digging into messy datasets and turning them into insights that actually mean something.
 What I do:
 I build dashboards that people genuinely find useful (not just pretty charts that sit unused). I automate the repetitive stuff so teams can focus on what matters. And I create models that help with planning and forecasting—the kind that actually support growth.
@@ -30,7 +30,7 @@ Open to remote roles, freelance projects, and interesting data collaborations.
 - **Project B:** Analytics Projects: Beginner-friendly projects using Excel, SQL, and Power BI to solve real-world business questions.
 - **Content Creation:** Learning-by-Building: Uploading documented projects to GitHub with clear problem statements, analysis steps, and conclusions.
 
-## 🌱 Currently Learning 
+##  Currently Learning 
 
 - SQL for Data Analysis
 (SELECT queries, WHERE clauses, JOINs, GROUP BY, and basic optimization)
